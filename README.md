@@ -1,31 +1,24 @@
 ## Hello and Welcome 👋, I'm Md. Azizur Rahman
 
-🎓 CSE Graduate | 👨‍💻 Developer | 📚 Research Enthusiast
+🎓 CSE Graduate | 👨‍💻 Developer | 📚 Research Enthusiast |✍️ Technical Writer
 
 ### 🔗 Connect with me:
-- LinkedIn: [Your LinkedIn](#)
-- Twitter: [Your Twitter](#)
-- Personal Website: [YourWebsite.com](#)
-- Email: [YourEmail@gmail.com](#)
+- LinkedIn: [(https://www.linkedin.com/in/azizur-rahman-9a6143220/)]
+- Twitter: [(https://x.com/AzizurRahm44146?s=09)]
+- Personal Website: [YourWebsite.com]
+- Email: [1902029.azizurrahmanmaruf@gmail.com]
 
 ---
 
 ## 💻 Skills & Technologies
-HTML | CSS | JavaScript | TypeScript | React | Next.js | Python | Flask | Node.js | MongoDB | Firebase | Machine Learning | NLP | Research
+HTML | CSS | JavaScript | Python | c++ | Flutter |  Machine Learning | NLP | Resarch
 
 ---
 
-## 📚 Latest Blog Posts
-📌 [How to build a Next.js App](#)  
-📌 [Understanding Machine Learning Models](#)  
-📌 [Deploying React Apps on Vercel](#)  
-
----
 
 ## 📺 Latest YouTube Videos
-🎥 [My Video 1](#)  
-🎥 [My Video 2](#)  
-🎥 [My Video 3](#)  
+🎥 [My Video 1](https://youtu.be/BYY-Rh28U84) 
+🎥 [My Video 2](https://youtu.be/8isZ8WSnDvU)  
 
 ---
 
